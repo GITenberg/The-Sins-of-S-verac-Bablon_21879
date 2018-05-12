@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/110
     wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21879#The-Sins-of-S-verac-Bablon
 gutenberg_issued: '2007-06-20'
 gutenberg_type: Text
 identifiers:

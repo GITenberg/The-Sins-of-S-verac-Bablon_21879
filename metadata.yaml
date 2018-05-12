@@ -1,0 +1,28 @@
+_repo: The-Sins-of-S-verac-Bablon_21879
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: ''
+gutenberg_issued: '2007-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mystery fiction'
+title: The Sins of Séverac Bablon
+url: http://www.gutenberg.org/ebooks/21879
